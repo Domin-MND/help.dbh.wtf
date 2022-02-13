@@ -12,8 +12,15 @@ DanBot Hosting - DBH is a free hosting done right owned and founded by [**Dan**]
 * VPS and shared hosting
 * web/bot and game hosting
 * free and paid nodes
-* unlimited CPU usage and RAM
-* 10 GB storage for your project
+* 10 GB storage for your server
+
+## Getting started.
+
+To easily get started checkout either `#📗╏getting-started` channel in DBH Discord Server or head to this page:
+
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
 
 ## Why this documentation exist?
 
