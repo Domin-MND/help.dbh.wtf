@@ -20,6 +20,8 @@ Before checking [panel](https://panel.danbot.host/) create your first server usi
 **Good to know:** You can leave server name blank if you can't decide on a name! Soon on the panel you will be able to change the name.
 {% endhint %}
 
+Note: Please do not use aoi.js because we don't want to be fucking ratelimited by Discord :}
+
 ## Want to delete it?
 
 `DBH!server delete <server id>` is used to delete the server. How do i find out what my server ID is? To find your server ID, you can grab the server ID by:
