@@ -1,4 +1,4 @@
-This page contains tutorial on how to get started in DBH step by step. All given instructions are taken from `#📗╏getting-started` channel in DBH Discord Server. If something is unsaid make sure to check "For Beginner" page!
+This page contains tutorial on how to get started in DBH step by step. All given instructions are taken from `#📗╏getting-started` channel in DBH Discord Server. If something is unsaid make sure to check "Help" category!
 
 # Join DBH Discord Server!
 
